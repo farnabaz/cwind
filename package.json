@@ -15,7 +15,7 @@
   "dependencies": {
     "@iconify-json/lucide": "^1.2.28",
     "@iconify-json/simple-icons": "^1.2.27",
-    "@nuxt/content": "^3.2.2",
+    "@nuxt/content": "https://pkg.pr.new/@nuxt/content@e9207fa",
     "@nuxt/icon": "^1.10.3",
     "@nuxtjs/color-mode": "^3.5.2",
     "@tailwindcss/typography": "^0.5.16",
